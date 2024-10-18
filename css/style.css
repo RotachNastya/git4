@@ -6,7 +6,7 @@ body{
     margin: 0px 166px ;
 }
 header{
-    background-image: url(/img/bg.jpg);
+    background-image: url(img/bg.jpg);
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -277,7 +277,7 @@ margin-top: 10px;
     opacity: 1;
 } */
 .black-block{
-    background-image:url(/img/bg2.jpg);
+    background-image:url(img/bg2.jpg);
     padding: 80px 0px;
 }
 .left-title{
